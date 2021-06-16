@@ -70,8 +70,4 @@ app.listen(process.env.PORT || 3000,function(){ // process.env.PORT is use foe h
 })
 
 
-// API Key
-// 15f11f61f334b5ef1cd089e9a3721248-us7
 
-// List Id
-// c5792c22a4
